@@ -1,0 +1,10 @@
+alex.johnson;admin,finance,hr
+emily.roberts;marketing,sales
+michael.davis;it,support,security
+sarah.miller;engineering,product
+david.lee;operations,logistics
+jessica.martinez;research,development
+daniel.garcia;customer_service,quality_control
+emma.anderson;legal,compliance
+james.clark;design,creative
+olivia.walker;hr,training
